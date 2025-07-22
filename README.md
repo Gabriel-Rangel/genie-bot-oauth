@@ -4,7 +4,7 @@ A streamlit-based chatbot that integrates with Databricks Genie API using dual O
 
 ## ✨ Demo
 
-
+https://github.com/user-attachments/assets/54856c7d-276e-4b81-a5bb-7f19ce423693
 
 ## 🚀 Features
 
